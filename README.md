@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Jung Sang Sik&fontAlignY=40&fontSize=100&desc=ꉂꉂ(ᵔᗜᵔ*)&descAlignY=65&animation=twinkling" style="width: 100%;">
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 
 
