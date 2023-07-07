@@ -1,4 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=DeveloperSik&fontAlignY=40&fontSize=100&desc=Hi i`m DeveloperSik&descAlignY=65&animation=twinkling" style="width: 100%;">
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi i`m DeveloperSik%20render&fontSize=90" />
+
 
 
 
