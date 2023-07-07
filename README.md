@@ -23,5 +23,5 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerSik&layout=compact&theme=gruvbox"><span>
-<img src="https://github-readme-stats.vercel.app/api?username=developerSik&show_icons=true&theme=gruvbox">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerSik&layout=compact&theme=highcontrast"><span>
+<img src="https://github-readme-stats.vercel.app/api?username=developerSik&show_icons=true&theme=highcontrast">
