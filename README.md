@@ -23,5 +23,5 @@
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerSik&layout=compact&theme=radical"><span>
-<img src="https://github-readme-stats.vercel.app/api?username=developerSik&show_icons=true&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerSik&layout=compact&theme=merko"><span>
+<img src="https://github-readme-stats.vercel.app/api?username=developerSik&show_icons=true&theme=merko">
